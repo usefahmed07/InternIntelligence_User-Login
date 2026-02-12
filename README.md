@@ -1,2 +1,2 @@
-# InternIntelligence_
-This My Repo for Projects for my internship with InternIntelligence
+# InternIntelligence.
+“This is my repository containing projects developed during my internship at InternIntelligence.”
