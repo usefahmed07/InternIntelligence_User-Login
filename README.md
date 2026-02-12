@@ -6,7 +6,10 @@ E: ExpressJS (Backend Framework)
 R: ReactJS (Frontend Framework)
 N: NodeJS (Backend Runtime)
 
+# Requirements
 
+Before going forward you must have **Node js** installed on your machine.  
+Go to the link below for installation if you don't have installed yet.
 
 
 
